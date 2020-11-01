@@ -7,7 +7,7 @@ from urllib.request import urlretrieve
 options = Options()
 options.add_argument("--disable-notifications")
 
-# 使用 Chrome 的 WebDriver
+# 使用 Chrome 的 WebDriver 123
 browser = webdriver.Chrome(options=options)
 
 # 開啟 Pchome 首頁
